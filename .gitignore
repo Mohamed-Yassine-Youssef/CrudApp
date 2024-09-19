@@ -1,0 +1,33 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio specific
+.vscode/
+.vs/
+.idea/
+.vscode/
+.vscode-test/
+
+# Rider-specific
+.idea/
+
+# Packages folder (NuGet dependencies)
+packages/
+
+# Dotnet publish output
+publish/
+*.publish/
+
+# Other environment files
+.env
+
+# Logs
+*.log
